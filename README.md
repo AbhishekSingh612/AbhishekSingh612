@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AbhishekSingh612/AbhishekSingh612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Abhishek Singh!
+Software Engineer\
+![Linkedin: abhishek](https://img.shields.io/badge/Abhishek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisheksingh61298/)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+```javascript
+const abhishekSingh = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "Javascript"],
+    askMeAbout: ["Web development", "Rest-API", "MVC", "Microservice" ,"Machine Learning","Deep Learning" ,"Tech"],
+    technologies: {
+        backEnd: ["Spring","Spring-boot","flask"],
+        frontEnd: ["Angular","Html","Css","Bootstrap"],
+        databases: ["MongoDB", "MySql","PostgreSQL","Redis"],
+        devOps: ["Docker", "Jenkins"],
+        cloud: ["AWS", "Heroku"],
+        other: ["kafka"]
+    },
+};
+```
