@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Abhishek Singh!
 Software Engineer\
-![Linkedin: abhishek](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisheksingh61298/)
-![Leetcode: abhishek](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/Abhishek61297/)
-![Github: abhishek](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AbhishekSingh612)
+[<img alt="Linkedin: abhishek" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhisheksingh61298/)
+[<img alt="Leetcode: abhishek" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Abhishek61297/)
+[<img alt="Github: abhishek" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbhishekSingh612)
 
-![Linkedin (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksingh61298/)
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 ```javascript
